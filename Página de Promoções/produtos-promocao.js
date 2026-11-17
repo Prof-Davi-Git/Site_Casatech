@@ -455,7 +455,7 @@ function pararCarrossel(categoria) {
 
 // ATUALIZAÇÃO 01/09 - INICIA A PÁGINA DE PROMOÇÕES SEM DEPENDER DE UMA QUANTIDADE FIXA DE PRODUTOS
 document.addEventListener("DOMContentLoaded", function() {
-    const paginaPromocoes = document.getElementById("carrossel-roupas");
+    const paginaPromocoes = document.getElementById("carrossel-acessorios");
 
     if (!paginaPromocoes) {
         return;
